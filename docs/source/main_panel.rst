@@ -1,4 +1,4 @@
-Main Panel & Workflow
+Main Panel
 #######################
 
 Tracked Textures List (Table)
