@@ -1,6 +1,12 @@
 Installation
 ============
 
+Video Tutorial
+--------------
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/TFr_k_JqmvE?si=6btEfHTNwSKsuZYP" frameborder="0" allowfullscreen></iframe>
+
 Written Tutorial
 ----------------
 1. Go to Edit > Preferences
