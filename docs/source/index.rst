@@ -1,9 +1,9 @@
-Pixelify – Send Your Renders Through
+Pixelify - Send Your Renders Through
 =============
 
 .. image:: images/Pixelify_Thumbnail.png
    :width: 600
-   :alt: Pixelify – Send Your Renders Through
+   :alt: Pixelify â€“ Send Your Renders Through
 
 **Pixelify** is your ultimate pixel art solution. It instantly transforms renders into authentic retro masterpieces with professional precision, giving you complete control over the pixelation journey.
 
